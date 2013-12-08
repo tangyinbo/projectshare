@@ -1,0 +1,5 @@
+git init
+git add
+git commit -m 'angularjs project'
+git remote add origin git@github.com:goForward/go.git
+git push -u tangyinbo master
